@@ -356,7 +356,7 @@ class CYKAlgorithm {
     }
 }
 
-public class S20210010142_code {
+public class CNF_CYK {
     public static void main(String[] args) {
         HashMap<String, Set<String>> grammar = new HashMap<>();
 
